@@ -1,6 +1,6 @@
 def linear_search(L,x):
     '''
-    This method do linear searching from list.It has two arguments L=List and x=search item
+    This method do linear searching from list.It has two arguments L=List and x=search item.it return list index if find search item else return -1
     '''
     if not L:
         return -1

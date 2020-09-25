@@ -1,3 +1,9 @@
+'''
+this module is example of unittesting using pytest module.
+run this module :
+pytest pythonUnitTesting.py
+'''
+
 def average(L):
     if not L:
         return None
